@@ -78,8 +78,7 @@ class Pair
         this.steps = steps;
 
     }
-    }
-
+}
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
